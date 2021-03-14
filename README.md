@@ -17,4 +17,4 @@ To use this stylesheet, you need an extension to use UserCSS. These two are good
   - [Firefox](https://addons.mozilla.org/firefox/addon/xstyle/) 
   - [Chrome](https://chrome.google.com/webstore/detail/xstyle/hncgkmhphmncjohllpoleelnibpmccpj)
 
-Here's the link to install the styles: [Install styles](https://raw.githubusercontent.com/eevajonnapanula/mimmit-koodaa-motion-safe-css/master/mk-motion-safe.user.css)
+Here's the link to install the styles: [Install styles](https://raw.githubusercontent.com/eevajonnapanula/mimmit-koodaa-motion-safe-css/master/mk-motion-safe.user.css) If you have the extension installed, it should add the styles automatically when opening the link. If you see only the raw text, then something has gone wrong.
