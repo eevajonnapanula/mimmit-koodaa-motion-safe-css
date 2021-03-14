@@ -3,7 +3,7 @@
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://raw.githubusercontent.com/eevajonnapanula/mimmit-koodaa-motion-safe-css/master/mk-motion-safe.user.css)
 
 
-This is a UserCSS stylesheet for Mimmit koodaa website, which removes some motion that can cause motion sickness or be distracting.
+This is a UserCSS stylesheet for [Mimmit koodaa website](https://mimmitkoodaa.ohjelmistoebusiness.fi), which removes some motion that can cause motion sickness or be distracting.
 
 ## Usage
 
