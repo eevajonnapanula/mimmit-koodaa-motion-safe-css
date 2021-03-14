@@ -1,0 +1,20 @@
+/* ==UserStyle==
+@name           Mimmit Koodaa motion safe styles
+@namespace      github.com/eevajonnapanula
+@version        1.0.0
+@description    Motion safe CSS for Mimmit Koodaa-page
+@author         Eeva-Jonna Panula <eevis@eevis.codes> (https://eevis.codes))
+@homepageURL    https://github.com/eevajonnapanula/mimmit-koodaa-motion-safe-css
+@supportURL     https://github.com/eevajonnapanula/mimmit-koodaa-motion-safe-css/issues
+@license        CC-BY-NC-SA-4.0
+==/UserStyle== */
+
+@-moz-document url-prefix("https://mimmitkoodaa.ohjelmistoebusiness.fi") {
+  * {
+    transform: none !important;
+  }
+
+  video {
+    display: none;
+  }
+}
