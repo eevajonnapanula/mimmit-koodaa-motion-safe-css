@@ -10,7 +10,7 @@
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://mimmitkoodaa.ohjelmistoebusiness.fi") {
-  * {
+  .elementor-motion-effects-container > * {
     transform: none !important;
   }
  
