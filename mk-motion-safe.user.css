@@ -13,7 +13,8 @@
   * {
     transform: none !important;
   }
-
+ 
+  /* Because we can't pause the auto-playing video, we can just hide it */
   video {
     display: none;
   }
