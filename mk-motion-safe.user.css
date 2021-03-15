@@ -10,8 +10,15 @@
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://mimmitkoodaa.ohjelmistoebusiness.fi") {
+  /* Removes the horizontally scrolling effect behind headings */
   .elementor-motion-effects-container > * {
     transform: none !important;
+  }
+  
+  /* Removes the animation for inserting the images to layout */
+  .elementor-gallery-item__image.e-gallery-image {
+    transition-duration: 0s !important;
+    transition-property: none !important;
   }
  
   /* Because we can't pause the auto-playing video, we can just hide it */
