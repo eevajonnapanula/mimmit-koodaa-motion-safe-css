@@ -1,6 +1,6 @@
 # Motion Safe UserCSS for Mimmit koodaa-website
 
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://raw.githubusercontent.com/eevajonnapanula/mimmit-koodaa-motion-safe-css/master/mk-motion-safe.user.css)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://raw.githubusercontent.com/eevajonnapanula/mimmit-koodaa-motion-safer-css/master/mk-motion-safer.user.css)
 
 
 This is a UserCSS stylesheet for [Mimmit koodaa website](https://mimmitkoodaa.ohjelmistoebusiness.fi), which removes some motion that can cause motion sickness or be distracting.
